@@ -74,7 +74,6 @@ Linear Regression
 
 Random Forest Regressor
 
-Model Evaluation
 
 ---
 
